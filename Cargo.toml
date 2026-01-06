@@ -5,7 +5,7 @@ edition = "2024"
 license = "MIT"
 readme = "README.md"
 description = "Parco Case Number Language"
-keywords = ["parco", "case numbers"]
+keywords = ["parco", "case-numbers"]
 homepage = "https://github.com/williamcparks/parco-cn-lang"
 repository = "https://github.com/williamcparks/parco-cn-lang"
 
