@@ -1,0 +1,18 @@
+[package]
+name = "parco-cn-lang"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+readme = "README.md"
+description = "Parco Case Number Language"
+keywords = ["parco", "case numbers"]
+homepage = "https://github.com/williamcparks/parco-cn-lang"
+repository = "https://github.com/williamcparks/parco-cn-lang"
+
+[dependencies]
+serde = "1.0.228"
+thiserror = "2.0.17"
+time = "0.3.44"
+
+[dev-dependencies]
+serde_json = "1.0.149"
